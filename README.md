@@ -1,2 +1,4 @@
-# NLP-Classification
-프로그래머스 2020 Dev Matching 자연어 처리
+# 자연어 처리를 공부해봅시다
+##### 단 천천히 ~!
+
+
