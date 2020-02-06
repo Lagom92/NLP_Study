@@ -2,7 +2,9 @@
 ##### 단 천천히 ~!
 
 <br/>
+
 ### install
+
 ```
-pip install tensorflow==1.15
+pip install tensorflow-cpu==1.15.0
 ```
