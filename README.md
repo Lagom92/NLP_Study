@@ -6,10 +6,10 @@
 ### install
 
 ```
-
 pip install tensorflow-cpu==1.15.0
 pip install matplotlib
 pip install seaborn
 pip install wordcloud
-
+pip install beautifulsoup4
+pip install nltk
 ```
