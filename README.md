@@ -12,4 +12,5 @@ pip install seaborn
 pip install wordcloud
 pip install beautifulsoup4
 pip install nltk
+pip install scikit-learn
 ```
